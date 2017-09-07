@@ -1,3 +1,2 @@
 include ':androidpagecontrol'
-include ':androidpagecontrol-samples:demos'
 
